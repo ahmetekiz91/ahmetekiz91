@@ -1,0 +1,41 @@
+﻿ -DBModel projesindeki kodlar finans class viewina taşınacak
+ (Finans ile ilgili olan tablolar tabi)
+ -Almanca sınavından sonra (almanca sınavı bitti sonuç bekleniyor)
+  -İlk önce api yazılacak sonra arayüz inş
+
+  ***Modüller
+ -Carihareket
+ -Bordohareket
+ -bankahareket
+ -bordro durum
+ -kasa hareket
+ -fatura (fiş hareket)
+ -satış siparişi
+ -satış teklifi
+ -alış siparişi
+ -satınalma siparişi
+ -muhasebe hareket
+ -alış teklifi
+ -servis talep 
+ -satınalma talep
+ -iş emri
+ -üretim
+ -sevkiyat
+ -depogiriş
+ -depo çıkış
+ -malzeme yönetimi
+ -cari yönetimi
+ -muhasebe yönetimi
+ -malzeme hareket
+ -malzeme rota
+ -malzeme reçete
+ -malzeme fiyat ve kampanya
+ -malzeme kategori yönetimi
+ -kalite kontrol
+ -personel bilgi sistemi
+ -iş akış diagramı
+ -servis yönetimi
+ -vardiya yönetimi
+ -crm yönetimi
+
+**** kullanıcı modülü ve tema giydirme ile başladık çok şükür****

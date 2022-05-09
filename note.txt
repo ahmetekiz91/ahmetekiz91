@@ -1,0 +1,11 @@
+cd C:\Users\Ahmet\Desktop\Projects\MNERPUI\mnerpui
+
+npm run dev
+-npm install --save vue-mc
+
+  @import '../plugins/datatables-responsive/css/responsive.bootstrap4.min.css';
+  @import '../plugins/datatables-buttons/css/buttons.bootstrap4.min.css';
+   require('../../plugins/datatables-responsive/js/dataTables.responsive.min.js');
+require('../../plugins/datatables/jquery.dataTables.min.js');
+require('../../plugins/datatables/jquery.dataTables.min.js');
+require('../../plugins/datatables/jquery.dataTables.min.js');
